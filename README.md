@@ -6,7 +6,7 @@ After cloning the repository, please run this command:
 ```
 sbt assembly
 ```
-This builds a runnable JAR file, and also runs all the unit tests
+This builds a runnable JAR file, and also runs all the unit tests.
 
 Run the game with this command:
 ```
@@ -16,7 +16,7 @@ Theoretically, it's possible to run the game using SBT:
 ```
 sbt run
 ```
-In practice though it messes with the console. Therefore my recommendation is to build and run the JAR.
+In practice though, it messes with the console. Therefore my recommendation is to opt for the former, and rather build and run the JAR.
 
 #### Prank option
 
